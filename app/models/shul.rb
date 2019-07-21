@@ -1,0 +1,3 @@
+class Shul < ApplicationRecord
+
+end
