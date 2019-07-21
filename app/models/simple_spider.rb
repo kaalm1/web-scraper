@@ -2,7 +2,7 @@ require 'kimurai'
 
 class SimpleSpider < Kimurai::Base
   @csv_text = File.read(Rails.root.join('db', 'upload', 'urls.csv'))
-  @csv = CSV.parse(@csv_text, :headers => true).to_a.flatten
+  @csv = CSV.parse(@csv_text).to_a.flatten
 
   @name = "simple_spider"
   @engine = :selenium_chrome
@@ -15,7 +15,7 @@ class SimpleSpider < Kimurai::Base
 
   def parse(response, url:, data: {})
 
-    item = {}
+    item = {:id=>url.split('/').last, :name=>'', :tel=>'', :email=>'', :website=>''}
     item[:name] = response.xpath("//div[@class='shul-details-info-column']/div").first.text.titleize
     response.xpath("//div[@class='shul-details-info-column']/a/@href").each do |x|
       if x.value.include?("tel:")
@@ -24,10 +24,13 @@ class SimpleSpider < Kimurai::Base
       if x.value.include?("mailto:")
         item[:email] = x.value.gsub("mailto:", "")
       end
+      if x.value.include?("http")
+        item[:website] = x.value
+      end
     end
 
-    byebug
     save_to "results.csv", item, format: :csv
+
   end
 end
 
