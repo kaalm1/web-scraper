@@ -9,6 +9,7 @@ id,name,tel,email,website,position
 42,Oppenheimer,2128599239,,,8
 47,World Center Beth Medrash,6466429767,,,3
 54,Eagle Paper  Inc.,2126049605,,,4
+58,Young Israel Of Manhattan,2127320966,,,1
 59,Bialystoker Shul,2124750165,info@bialystoker.org,http://www.bialystoker.org/index.htm,12
 64,Beth Israel Linsky Building,2124202759,,,13
 71,Jay Imports,2126832727,djay@jimport.com,,14
@@ -52,13 +53,16 @@ id,name,tel,email,website,position
 174,Anshe Motele,7737432420,anshemotele@sbcglobal.net,,59
 176,Chicago Community Kollel,7732629400,cckollel@cckollel.org,,28
 178,Free,7732745123,free@obshina.com,http://www.obshina.com/,62
+179,Hebrew Theological College,8479822500,htc@htc.edu,http://www.htc.edu/,10
 180,Ida Crown Jewish Academy,7739731450,icja@icja.org,http://icja.org/,30
+181,Kehilath Jacob Beth Samuel,7735397779,rabbileibtag@kjbs.org,,11
 185,Lubavitch Chabad And F.R.E.E. Of Niles,8472961770,chabad@bsinet.net,,66
 189,Yeshivas Ohr Eliyahu Lubavitch Mesivta,7732620430,rabbi@lmchicago.org,http://www.lubavitchmesivta.com/,33
 190,Mishna Ugemora,7734651433,mishna_ugemora@sbcglobal.net,,69
 191,Or Torah,8476793645,ortorah@sbcglobal.net,,34
 195,Ohel Shalom Torah Center,7734655274,office@ohelshalomchicago.org,http://www.ohelshalomchicago.org/,73
 197,Shearith Yisroel,7732628840,kollel251@gmail.com,,38
+198,Shevet Achim (Buckingham Pavilion),7739734843,office@buckinghampavilion.com,,16
 199,Skokie Valley Agudath Jacob Mechitza Minyan,8476743473,admin@svaj.org,http://www.svaj.org/,40
 200,Telshe Yeshiva,7734637738,,,78
 201,Tifereth Moshe,,,,79
@@ -85,6 +89,7 @@ id,name,tel,email,website,position
 242,Kehilas Bais Avrohom,,,http://www.kbaforshay.com/,104
 243,Kehillas Prozdor,,Leibie@aol.com,http://www.prozdor.com/,105
 244,Khal Adath Jeshurun,8454260178,ravmbl@gmail.com,,106
+245,Knesset Yisrael,8453540933,http://www.ckynh.org		,mailto:http://www.ckynh.org		,21
 251,Ohaiv Yisrael,8453565728,https://www.ohaivyisroel.com			,mailto:https://www.ohaivyisroel.com			,111
 252,Ohel Ya'akov,8454259671,,,112
 255,Ribnitz,8454262056,,,114
@@ -106,6 +111,7 @@ id,name,tel,email,website,position
 284,Shtiblach Of Katamon,,,http://www.shtiblachkatamon.com/,133
 286,Meal Mart/Alle Processing,7188942000,,,135
 288,Capitol Hill Branch Of Bikur Cholim,2066597485,,http://capitolhillminyan.org/Visitor_Info.html,136
+292,Congregation Beth Yehuda,7189836035,,http://nachas.org/BethYehuda,31
 293,Beth Shloime,7185014816,,http://www.mikesturm.com/bethshloime/,139
 294,Ohr Hachaim,7187618551,,,140
 298,Young Israel Of Staten Island,7184946700,,http://www.yisi.org,64
@@ -152,12 +158,14 @@ id,name,tel,email,website,position
 376,Agudah Minyan / Reshet Shiurei Torah,2125412280,,,78
 377,Jec Elmora / Main Shul,9083554850,,http://jecelmorashul.org/,192
 378,Jec Adath Israel/North Avenue Shul,9083554850,welcome2ai@yahoo.com,http://www.adathisraelshul.org/,193
+381,Chabad Palo Alto,6504249080,zalman@chabadpaloalto.com,http://chabadpaloalto.com/,41
 387,Keter Torah (Roemer),,,http://www.ketertorah.org,83
 389,Young Israel Of Teaneck,2018371710,,http://www.yiot.org,200
 390,Zichron Mordechai,2018377696,,http://zichronmordechai.org/wp/,201
 391,Yeshivas Bais Mordechai Of Teaneck,2018335920,,,202
 393,Shaarei Orah,2018330800,office@sephardicteaneck.org,http://www.sephardicteaneck.org/,203
 394,Ambra,2018370080,,,204
+397,Chabad Of Sacramento,9164551400,chabadsac@aol.com,http://sacjewishlife.org/,47
 399,Young Israel Of Huntington,6313857276,,,88
 403,26 Federal Plaza,2017096799,,,209
 405,Chambers And Centre,2126698804,,,210
@@ -179,9 +187,11 @@ id,name,tel,email,website,position
 436,Yeshiva Gedola Of Bayonne,2013397187,,,228
 439,Artus Corporation,2015681000,,,229
 440,Ahavath Torah,2015681315,office@ahavathtorah.org,http://ahavathtorah.org/,230
+441,Ahavat Achim,2017423046,,,51
 442,Zichron Dan,2014692823,bstrasser@iso.com,,95
 445,Hudson Equities,2013335900,,,233
 446,Synagogue Of The Suburban Torah Center,9739940122,info@suburbantorah.org,http://www.suburbantorah.org,234
+447,Rabbinical College Of America,9732679404,rabbiherson@rca.edu,http://www.rca.edu/,52
 454,Mesivta Sanz Of Hudson County,,,https://www.mesivtasanz.com/,97
 456,Rabbi Jacob Joseph School,7329856533,,,237
 457,Sakar International,7322481306,,,98
@@ -192,6 +202,7 @@ id,name,tel,email,website,position
 477,Young Israel Of Deerfield Beach,9545713904,yidb4444@bellsouth.net,,245
 479,Shaarey Zedek,8187630560,info@valleyshul.com,http://www.valleyshul.com/,104
 483,Young Israel Of Northridge,8183682221,rabbiklein@yion.org,,250
+498,Young Israel Of Holliswood,7187768500,,,63
 502,Adath Yeshurun,,kgs@nyc.rr.com,http://kewgardenssynagogue.org/,115
 504,Kahal    Nachlas Avos Ejc,7184833905,,,260
 505,Rockwood Park Jewish Center,7183163055,yehoshuasamuels@gmail.com,,116
@@ -204,6 +215,7 @@ id,name,tel,email,website,position
 527,Sefardic Shul Of Far Rockaway,7187046491,,,274
 528,Khal Bais Shmuel Aba,7184710563,khalbaisshmuel@gmail.com,,126
 532,Yeshiva Mercaz Hatorah Of Belle Harbor,7184743064,office@ymhbh.com,http://ymhbh.com/,277
+534,Agudath Israel Of The Five Towns,5163745364,info@agudah5t.org,http://www.agudah5t.org/,73
 535,Young Israel Of Hewlett / Ahavat Yisrael,5162952282,office@yihewlett.org,http://www.YIhewlett.org,279
 539,Bais Tefilah,5163745523,,,131
 542,Beth Sholom,5165693600,,http://bethsholom.us/,134
@@ -218,6 +230,8 @@ id,name,tel,email,website,position
 566,Machane Chodosh,7187935656,,http://www.machanechodosh.org/,144
 568,Queens Jewish Center,7184598432,office@MyQJC.org,,145
 569,Sephardic Jewish Cong. Of Queens,7185446932,,,300
+572,Yismach Moshe Delaposh   Ateres Aharon,7184592632,,,82
+573,Young Israel Of Forest Hills,7182687100,,,83
 574,Young Israel Of Jackson Heights,7186398888,rabbiisaiah09@gmail.com,,303
 576,Agudath Israel Of Kew Gardens Hills,9176818001,,,305
 577,Ahavas Yisroel,7185206273,,http://caykgh.blogspot.com/,149
@@ -227,14 +241,17 @@ id,name,tel,email,website,position
 584,Bnai Abraham,7182614580,,,153
 586,Khal Degel Israel,7185449754,,http://www.degelisrael.com,155
 589,Jewish Heritage Center,7185753100,,,316
+590,Machzekei Hadas,7185201465,,,89
 592,Mogen Avraham,,,,159
 593,Nachlas Yitzchak,7185200115,,,319
 594,Nusach Ari,,,,320
 597,Sephardim,7185919574,,,323
 598,Shaarei Teshuva,7187932886,,,162
 600,Torah Lodaas,7185448497,,,164
+602,Yeshiva Ohel Simcha,7182610101,newteachers393@yahoo.com,,93
 603,Yeshiva Ohr Hachaim,7185449462,yockgh@gmail.com,,166
 604,Yeshivat Berachel David/Torah Highschool Of Queens,7188494140,,,329
+605,Young Israel Of Kew Gardens Hills,7182619723,yikgh@verizon.net,,94
 618,Maimonides Minyan,6172324414,msnyder@maimonides.org,http://maimonides.org,337
 621,The Zvhil   Mezbuz Beis Medrash (Downtown Boston),6172278200,info@rebbe.org,,338
 622,Ohel Moed,97714013,,,339
@@ -257,6 +274,7 @@ id,name,tel,email,website,position
 643,Peilei Agudat Yisrael (Pa,97481846,,,358
 645,Tzur Yisrael,97482949,,,360
 646,Cleveland (Chasidei Cleveland),97746702,ganeden11@gmail.com,,182
+647,Kiryat Eliyahu,97414086,,,104
 649,Ahavat Zion,97433689,,,364
 650,Ohel Mordechai,97489644,,,365
 651,Orach Chayim,,,,366
@@ -264,6 +282,7 @@ id,name,tel,email,website,position
 654,Beit Ari,97712836,,,186
 655,Beit Yisrael,97714824,,,187
 656,Bar Yochai,50286616,,,188
+659,Heichal Zion,58371338,,,109
 660,Yeshurun,52583886,,,375
 661,Magen David,97411389,,,376
 663,Mikdash Melech (Heychal Uriel),97454167,,,193
@@ -275,32 +294,44 @@ id,name,tel,email,website,position
 672,Beit Aharon,97744650,,,199
 673,Beit Yaakov,97745872,,,388
 674,Yemin Moshe,54722667,,,389
+675,Leah V'rachel,97749996,,,114
 676,Migdal Tzedek,,,,391
 677,Moreshet Avot,97434733,,,392
 678,Mekor Chayim,97713844,,,393
 679,Nachlat Achim,97748148,,,394
+680,Netzach Yisrael,97745179,,,115
 682,Tiferet Bachurim Lzecher Hachalalim,97715705,,,397
+683,Bnei Akiva Yeshiva,,,,117
 684,Hayeshiva Hachadashah,,,,399
 688,Adat Yeshurun,8585351196,,http://www.adatyeshurun.org/,400
 690,Chabad Of Rancho Bernardo & Poway,8584510455,rabbi@chabadpoway.com,http://www.chabadpoway.com/,402
 691,Chabad Center Of University City,8584551670,info@chabaduc.org,http://www.chabaduc.org/,205
+694,Young Israel Of Sharon,7817846112,webmaster@yisharon.org,http://www.yisharon.org/,119
 702,Beit Chatam,,,http://chatam.org/,410
+703,Kahal Chassidim,3053009662,,,125
 709,Chabad House Of Greater Boston,6174241190,,http://www.chabadboston.org/,416
 711,Shaare Tefilla,9726610127,shaaretefilla@gmail.com,http://www.shaaretefilla.org/,218
+713,Chabad Lubavitch Of Edmonton,7804867244,chabad@shaw.ca,http://chabadedmonton.org/,131
+716,Chabad Of Boca Raton,5614872934,Gevald@bellsouth.net,http://www.chabadofbocaraton.com,132
 717,Chabad Of Boca Raton,5619946257,,,421
+718,Young Israel Of Toco Hills,4043151417,,http://www.yith.org/,133
 721,Magen David Dallas,9723867166,dimoyal@sbcglobal.net,http://www.magendaviddallas.org/,424
+723,Congregation Beth Rambam,7137233030,office@bethrambam.org,http://www.bethrambam.org,135
 725,Rodfei Sholom,2104933557,,http://www.rodfeisholom.com/schedule.html,225
 726,Albert Einstein Synagogue,,einsteinsynagogue@gmail.com,http://www.einsteinsynagogue.com/,428
 731,Chabad Lubavitch Of Markham,9058860420,,,430
 734,Chabad Of Plano/Collin County,9725968270,Connect@chabadplano.org,,432
 738,Century City Mincha Minyan,3102721390,minyan@qntnl.com,,433
 746,Ohr Chaim,3056741326,ohrchaim@aol.com,,437
+747,Perth Hebrew Congregation,892710539,phc@theperthshule.asn.au,http://www.theperthshule.asn.au/,142
 748,Northern Suburbs Hebrew Congregation,,,,439
 749,Bondi Mizrachi Synagogue,293653838,,,440
 752,Beith Tefila,706585861,,http://www.welcome.to/minyan,442
+753,Hendon United Synagogue,2082026924,admin@hendonus.org.uk,,144
 755,Utopia Jewish Center,7184618347,,,235
 756,Hollywood Bais Medrash,9549864944,MKreuter@BellSouth.net,,446
 757,Central Synagogue,93554000,,,447
+759,House Of Jacob Mikveh Israel,40325932308404,hojmi@telus.net,http://www.hojmi.org/,146
 764,Young Israel Of Ottawa,6137228394,Info@youngisrael.ottawa.on.ca,http://www.youngisrael.ottawa.on.ca/,450
 765,Kiever Shul,4165939702,thekiever@kievershul.com,http://www.kievershul.com/,451
 769,Reading Hebrew Congregation,1189571018,,,452
@@ -315,30 +346,38 @@ id,name,tel,email,website,position
 796,Beth Torah,9499519063,,,464
 797,Ahavas Yisroel Synagogue (Ari),3238571607,sternacitron@gmail.com,,465
 806,Ohev Shalom,3236537190,,,469
+807,Torah Ohr,6464747483,etorahohr@gmail.com,http://www.torahohr.net/,154
 815,Eliahu South Bay Torah Center,6194722144,,,477
 818,Adath Israel,4155645665,Rabbi@adathisraelsf.org,http://www.adathisraelsf.org/,479
+819,Chevra Thilim,4157522866,,http://www.sfshul.org,162
 821,Maohr Hatorah,3104532601,info@maohr.org,,481
 822,Pacific Jewish Center,3103928740,info@pjcenter.com,http://www.pjcenter.com/,482
 823,Chabad Of California   West Coast Headquarters,3107091556,Rabbi@ChabadWestwood.com,http://ChabadWestwood.com,253
 827,Westville Synagogue/Beth Hamedrosh,2033899513,office@westvilleshul.org,http://www.westvilleshul.org/,255
 829,Ahavath Chesed,8604423234,,,256
+830,Beth Israel Of Westport/Norwalk,2038660534,rabbihecht@bethisraelct.org,http://bethisraelct.org,164
 833,Beth Jacob Congregation,5104821147,office@bethjacoboakland.org,http://www.bethjacoboakland.org/,489
 834,Congregation Bnai Israel,,77thstreetshul@gmail.com,,490
 836,Brothers Of Joseph,8608873777,,,260
 838,Young Israel Of Stamford,2033483955,,http://youngisraelstamford.org/,493
+841,Torah Ohr,5614794049,RabbiTorahOhr@gmail.com,http://Torahohrboca.org,168
 844,Palm Beach Synagogue,5618389002,office@palmbeachsynagogue.com,http://www.palmbeachsynagogue.org/,264
 846,Beth Jacob,4046330551,,http://www.bethjacobatlanta.org/,499
 848,Bnai Torah,3172535253,office@btorah.org,http://www.btorah.org/,500
+850,Beth Abraham,,,http://jewishbangor.org/,172
 857,Young Israel Of Patchogue,6316540882,,,507
 863,Young Israel Ezras Israel Of Potomac,3012992827,,http://www.yieip.org/,509
 864,Kemp Mill Synagogue,3015930996,office@kmsynagogue.org,http://www.kmsynagogue.org/,273
 866,Young Israel Shomrai Emunah (Yise),3015934465,,http://www.yise.org/,275
+873,Housing And Urban Development,"20,270,806,146,061",Isaac.Szanzer@HUD.Gov,,181
 875,Chabad House At Amherst,4135492008,,http://www.chabadhouseatamherst.org/,516
+877,Agudas Achim Anshei Sfard / Adams Street Shul,6176300226,rabbiglass@adamsstreet.org,,182
 878,Ann Arbor Orthodox Minyan,,,http://www.annarborminyan.org/,280
 879,Young Israel Of Oak Park,2489673655,,http://www.yiop.org/,519
 880,Tpheris Israel Chevra Kadisha,,,http://www.tickstl.com/,281
 883,Chabad Of Southern Nevada,7022590770,,http://www.chabadlv.org/,282
 884,Chabad Of Summerlin Desert Shores,7028550770,,,522
+888,Young Israel Of East Brunswick,7322541860,,http://www.yieb.org/,183
 890,Mount Sinai Congregation,2012223445,info@bestshulever.org,http://www.mtsinai.net/,525
 892,Brothers Of Israel,7322226666,info@brothersisrael.org,http://www.brothersisrael.org/,526
 893,Shaya Ahavat Torah,9733353636,ParsippanyShul@optonline.net,http://www.shayaahavattorah.org/,527
@@ -353,6 +392,7 @@ id,name,tel,email,website,position
 911,Young Israel Of Long Beach,5164312404,yilbpres@gmail.com,http://www.yilb.org/,292
 914,Tifereth Israel (Landfield Avenue Synagogue),8457948470,,http://landfieldavenuesynagogue.org/,542
 915,Mt. Kisco Hebrew Congregation,9142427460,office@mkhc.org,http://www.mkhc.org/,543
+917,Kehillat New Hempstead,8453622425,info@knh.org,http://www.knh.org/,190
 920,Old Broadway Synagogue,2126629767,PaulRadensky@gmail.com,http://www.oldbroadwaysynagogue.blogspot.com/,546
 921,Shearith Israel/Spanish Portugese Synagogue,2128730300,,http://www.shearithisrael.org/,296
 922,Washington Heights Congregation (The Bridge Shul),2129234407,info@bridgeshul.com,http://www.bridgeshul.com/,548
@@ -363,6 +403,7 @@ id,name,tel,email,website,position
 930,Aur Torah Sephardic Minyan,9175607010,aurtorah@hotmail.com,http://aurtorah.org/,554
 933,Bina,+612 9365 4421,rabbig@bina.com.au,,556
 935,Twin Rivers Minyan   Cong. Toras Emes,6094434877,,,557
+936,Golf Manor Synagogue,5135316654,,http://www.golfmanorsynagogue.org/,194
 937,Ahavas Sholom,6142524815,ahavassholom@gmail.com,http://www.ahavas-sholom.org/,559
 939,Kesser Israel,5032221239,info@kesserisrael.org,http://www.kesserisrael.org/,560
 942,Mikveh Israel,2159225446,Info@mikvehisrael.org,http://www.mikvehisrael.org/,563
@@ -374,6 +415,7 @@ id,name,tel,email,website,position
 955,Keneseth Beth Israel,8042887953,kbi@kbirichmond.com,http://kbirichmond.com/,570
 956,Shevet Achim,2062751539,contactus@shevetachim.com,http://www.shevetachim.com/,571
 963,Yussr Youth Center,11375172101761,,,311
+966,Heights Jewish Center   Beth Hamidrosh Hagodol,,heights@apk.net,http://www.hjcs.org/,203
 967,Khal Magrov   Bais Arye,,,,314
 968,Or Chadash,,,http://www.or-chadash.org/,580
 972,Chabad House Of Edison/Metuchen,7329068194,,,581
@@ -384,13 +426,16 @@ id,name,tel,email,website,position
 980,Yeshivah,95228222,,,586
 981,Dover Heights Shule,,info@dhs.org.au,,587
 983,Edgware (United) Synagogue,2089587508,,,588
+984,Beth Israel Abraham Voliner,9133412444,office@biav.org,http://biav.org,204
 988,Ahi Ezer Torah Center,7184157419,,,591
 989,Ateret Torah,7183757100,,,320
 990,Avenue O Synagogue,7186270880,Roberts@laregale.com,http://www.aveosynagogue.com/,593
+999,Yeshivat Mikdash Melech,,,https://www.mikdashmelech.com/,209
 1001,Beis Chabad Ohel Devorah,395259043,broner@optusnet.com.au,,326
 1003,Jewish Center Of Atlantic Beach,5163710972,jcaboffice@gmail.com,,601
 1004,The Calabasas Shul,8182251405,,,602
 1009,Magain David Sephardim Congregation,4157529095,info@magaindavid.com,http://www.magaindavid.com/,331
+1012,Kehillas Ahavas Torah,5418441340,ahavastoraheugene@aol.com,http://minyan.us,215
 1013,The Bayit,6044414770,Rabbi@thebayit.ca,http://Thebayit.ca,608
 1020,Chabad Of Tennessee,9017540404,Chabad@JewishMemphis.com,http://www.jewishmemphis.com/,611
 1021,Minyan @Sunharbor Manor,5166215400,earyeh@sunharbormanor.com,,612
@@ -398,6 +443,7 @@ id,name,tel,email,website,position
 1024,Borehamwood And Elstree,2083865227,info@borehamwoodshul.org,http://www.borehamwoodshul.org/,614
 1026,Cockfosters & North Southgate,2088868225,,,615
 1027,Finchley Synagogue,2083468551,,,616
+1030,Kingsbury,2082048089,office.kingsyn@brijnet.org,http://www.brijnet.org/kingsyn,218
 1031,Mill Hill,2089591137,,,618
 1032,Pinner,20888687204,info@pinnersynagogue.com,http://www.pinnersynagogue.com/,336
 1033,Stanmore & Canons Park,2089542210,,,620
@@ -409,7 +455,9 @@ id,name,tel,email,website,position
 1046,South Tottenham,2088802731,,,630
 1050,Beit Chabad Morumbi,30314555,,http://www.sinagogamorumbi.org.br/,633
 1051,Bevis Marks,2076261274,mauricebitton@bevismarks.org.uk,http://www.bevismarks.org.uk/,634
+1054,Beis Shlomo,2156711981,philyrabbi@hotmail.com,,227
 1056,Cedar Village,5133363149,,,638
+1059,Constantia Hebrew Congregation,217131818,constantiashul@herzlia.com,http://chc.org.za/,228
 1060,Cremorne And District Hebrew Congregation,299081853,,,640
 1061,Exeter Hebrew Congregation,1392251529,,,347
 1062,Staines & District Synagogue,1784462557,,,642
@@ -419,6 +467,7 @@ id,name,tel,email,website,position
 1072,Home Of The Sages,2126738500,,,650
 1075,Hillman Housing Playroom,2126775858,,,651
 1076,Chevra Tzemach Tzedek,9176960193,,,652
+1077,Austria Hungary Anshe Sfard,2122276145,,,233
 1079,Boyaner Bais Medrash,8457015086,,,354
 1086,Magen David Of Manhattan,2126730333,info@magendavidny.org,http://www.magendavidny.org/,357
 1089,Agudah Mogain Avraham,2485521971,,,659
@@ -430,7 +479,10 @@ id,name,tel,email,website,position
 1102,Bais Chabad Farmington,2488552910,,,669
 1104,Kahal Chareidim,2489683968,,,670
 1106,Minyan Avreichim,2489673141,,,671
+1111,Bais Medrash Bais Shalom/ Simcha Room (Bmg),7323639780,,,243
+1112,Oheb Zedek   Taylor Road Synaogue,2163214875,,http://trsshul.org/,244
 1113,University Hospital/Rutgers Mincha Minyan,9739724300,,http://www.uhnj.org/,676
+1120,Katlav (Kehilat Tohar Lev Barama),,,,247
 1121,Kehillat Ahava Vesimcha,577361440,kavrbs@yahoo.com,http://groups.yahoo.com/group/kavrbs/,680
 1122,Etz Haim,33624286556,jklein@free.fr,http://www.etzhaim.com/,371
 1123,Adath Israel,,,,372
@@ -438,14 +490,18 @@ id,name,tel,email,website,position
 1134,Nachalat Yehuda (The Happy Minyan),544408872,mbi@bezeqint.net,http://www.nachalatyehuda.com/,689
 1137,Kahal Toras Chesed,,,,692
 1138,Synagogue De Lausanne (La Schul),213417240,,,693
+1141,Bais Yitzchok,,,http://www.baisyitzchok.org/,256
 1142,Chabad Lubavitch Of Litchfield County,8605673609,,,696
 1145,Shir Hadash,,shirhadash613@gmail.com,http://shirhadash.com,697
 1149,Reb Shlomo Minyan Har Nof,26518836,,,699
 1156,Adas Yereim  Viener Schul,,,https://twitter.com/chadushesanash,386
+1157,Beth Torah,7182529840,Bethtorah1061@gmail.com,https://www.beth-torah.com/,260
 1159,Ohr Somayach Montreal,5147379195,,,389
 1160,Knesset Hasefer,4436358406,rncadle@gmail.com,,390
+1161,Beth Israel,7804888315,,,262
 1164,Bais Aharon / Felders,,,,392
 1167,Chabad Center Of Raleigh,9198478986,info@jewishraleigh.org,http://www.jewishraleigh.org,710
+1168,Bridge Lane Beth Hamedresh,,,http://www.blbh.org/,264
 1170,Young Israel Of Hollywood Fort Lauderdale,9549667877,info@yih.org,,396
 1172,Oda Health Center Mincha Minyan,7182604600,,,714
 1173,Chabad Of Crimea,652299432,chossid@gmail.com,http://www.chabadcrimea.org/,397
@@ -455,6 +511,8 @@ id,name,tel,email,website,position
 1177,Nachalei Daas,25335545,,,719
 1179,Chabad Of Aspen,9705443770,,,721
 1181,Kollel Beth Hatalmud   Yehuda Fishman Institute,395276156,office@kollel.com.au,http://www.kollel.com.au/,723
+1182,Frankels Shul,3472441882,,,268
+1183,Ner Israel Rabbinical College,4104847200,,,269
 1189,Beis Midrash Ahavas Shalom,29920578,info@ahavasshalom.org,http://www.ahavasshalom.org/,405
 1192,Kedushas Pinchas (Boston),8301,,,406
 1193,Nahal Dolev Minyan,,,,730
@@ -462,10 +520,12 @@ id,name,tel,email,website,position
 1196,Chabbad Shul,,,,732
 1198,Binyan Beck (Beck Center)  Har Hotzvim,,,,734
 1200,Math Dept   Bar Ilan University,35318787,,,735
+1201,Central Synagogue Of Oranit   Heichal Moshe,,,http://oranitamuta.org/,273
 1203,Sha'ar Hashamaim Hasidim,,,,737
 1206,Shatz Melitz / Shabbos & Yomtov Minyan,26522598,avrhmsol@midot.jct.ac.il,,411
 1207,Ashmoret Avraham,508685317,,,741
 1208,Itri,,,,742
+1213,Israelitische Religionsgesellschaft Zuerich,442014998,irg@bluewin.ch,http://www.irgz.ch,279
 1217,Yeshurun Edgware,2089525167,president@yeshurun.org,,417
 1218,Migdal Ohr,+078122515978,migdalohr5778@gmail.com,http://www.migdal.tv/,418
 1220,Kibbutz Alumim,89937111,mcyng@alumim.co.il,http://www.alumim.co.il,419
@@ -473,7 +533,9 @@ id,name,tel,email,website,position
 1227,Yeshivas Bais Hatalmud,7182592525,,,421
 1230,Young Israel Of Sunny Isles (North Miami Beach),3059359095,,http://www.youngisraelsib.com/,754
 1233,Agudath Israel,4107643333,,,756
+1234,Arugas Habosem   Rabbi Taub's Shul,4107640903,,,283
 1235,The Third Wasaga Beach Minyan,,lwz@zeifman.ca,,758
+1237,Beth Abraham (Herzbergs),4103587456,RabbiDKatz@gmail.com,http://www.congbethabrahamhertzberg.org/,285
 1238,Beth Isaac Adath Israel,,,,761
 1241,Bnai Jacob Shaarei Zion,4107646810,office@bjsz.org,,427
 1242,Chofetz Chaim Adas B'israel,,,,764
@@ -482,6 +544,7 @@ id,name,tel,email,website,position
 1253,Synagogue Center,,,,768
 1257,Poale Zedeck,4124219786,info@pzonline.org,http://pzonline.org/,771
 1260,Zichron Yaakov Yitzchok Of Chasidei Belz,5142705086,,,772
+1265,Emunas Avraham   Pittsburgh,533136010,h.pittsburgh@gmail.com,,292
 1267,Beth Yisochor Dov,,,http://www.hagers.info/,776
 1270,Shaare Torah Cngregation,4124218855, Office@ShaareTorah.net ,http://www.shaaretorah.net/,437
 1274,Lubavitch Centre Of Leeds,1132663311,,http://www.judaismlive.com/,782
@@ -489,19 +552,23 @@ id,name,tel,email,website,position
 1277,Etz Chaim Synagogue,1132662214,admin@etzchaim.co.uk,http://www.etzchaim.co.uk/,784
 1278,Queenshill Synagogue,1132687364,,,785
 1281,Beth Hamidrash Hagadol,1132692181,office@bhhs.co.uk,http://www.bhhs.co.uk/,786
+1285,Chabad Of Uruguay,27093444,,http://www.jabad.org.uy/,298
 1286,Hogar Jabad Lubavitch Jose Y Sara Lerner,2520044,,,789
 1289,Chabad House Of The North Coast,315612487,chabadnc@global.co.za,http://www.chabadnc.com/,790
 1290,Chabad Of Gan Ner,46400067,,,791
 1295,Chabad Torah Foundation,892754912,,,793
 1302,Misrad Hachinuch Agaf Letarbut Toranit,,tarbut-toranit@education.gov.il,,797
 1303,Shaarai Torah,5087910013,office@shaaraitorah.org,,798
+1306,Beis Knesses  Zerach Barnett 14,,,,303
 1307,Givat Hamivtar,25324558,,,447
+1308,Derech Etz Chaim,26541379,,,304
 1310,Beth Jacob Ohev Shalom,7183885589,,,802
 1311,Lubavitch Of Edgware,2089054141,rabbi@loe.org.uk,http://www.loe.org.uk,803
 1315,Chabad Of Courbevoie,147687067,,,451
 1316,Beth Habad De Creteil,143771381,,,807
 1318,Beth Loubavitch Place Des Fetes,142022035,,,809
 1320,Centre Haya Mouchka,330388322486,,,811
+1321,Beth Habad,494623513,,,309
 1323,Chabad Offenbach Am Main,6982003614,,http://www.chabadoffenbach.de/,813
 1324,Chabad Of Wurttemberg,7319691691,,,814
 1326,Chabad Lubavitch Di Roma,686215727,info@chabadofrome.org,http://www.chabadroma.org,816
@@ -524,10 +591,14 @@ id,name,tel,email,website,position
 1357,Young Israel Of West Hartford,860-233-3084,,http://www.youngisraelwh.org/,838
 1358,Beit Mordechai,,,http://www.yihartford.org/,839
 1361,Wujs Arad,,wujsarad@jazo.org.il,,840
+1363,Mtc Montreal Torah Center,514-739-0770,mtc@themtc.com,,316
 1369,Hebrew Academy Of Nassau County,516-538-8161,rabbiadelman@hanc.org,http://hanc.org/,845
+1370,Beth Jacob Congregation,(614) 237-8641,Office@bjcolumbus.org,http://www.bjcolumbus.org/,320
 1371,Beis Tefillah Yonah Avraham,,info@btya.org,http://www.btya.org/,469
 1373,Beth Yosef,joe levy,,,848
 1376,White Drive Minyan,,,,849
+1379,Sephardic Congregation Of Paramus,2019679898,sephardiccongofparamus@gmail.com,,323
+1381,Bais Halevy,,,,324
 1385,Beth El,01-4770-0923,,,855
 1386,Kehal Yereim,,,,856
 1387,Zichron Kedoshim,,,,857
@@ -575,12 +646,14 @@ id,name,tel,email,website,position
 1463,Mikvah Israel,518-584-6338,,,914
 1464,Beth Israel Baron De Hirsch Congregation,9024221301,info@thebethisrael.com,http://www.thebethisrael.com/,915
 1466,Talmud Torah   Beth Jacob Synagogue,,,,916
+1469,Beth Tefillah   Chabad Of Georgia,,smayo@bethtefillah.org,http://www.chabadga.com/,343
 1471,Agudah Of Belle Harbor/ Cong. Bais Yehudah,718-945-5473,,,498
 1472,Stanton St. Shul,212 533 4122,info@stantonstshul.com,http://www.stantonstshul.com/,499
 1473,Harvard Hillel,(617) 495-4695,dani@hillel.harvard.edu,http://www.hillel.harvard.edu/,500
 1475,Chabad Of Randolph,9739609390,,,923
 1477,B'nai Abraham,2152382100,rabbi@phillyshul.com,http://www.phillyshul.com/,925
 1479,Chabad Jewish Center At Basking Ridge,(908) 604-8844,mmherson@chabadcentral.org,http://www.chabadcentral.org/,503
+1480,Chabad House At Syracuse University,,chabad@syr.edu,http://www.chabadsyracuse.com/,346
 1482,Lubavitch Of Bucks County   Yardley,215-497-9925,,,929
 1483,Valley Chabad,2014760157,,,505
 1488,Shabbos House   Jewish Student Center,(518) 438-4227,mail@shabboshouse.com,http://www.shabboshouse.com/,934
@@ -595,6 +668,8 @@ id,name,tel,email,website,position
 1500,Chabad Of Noe Valley,415 648 8000,,http://www.chabadnoevalley.org/,512
 1502,Chabad Lubavitch Of Upper Montgomery County,301-926-3632,info@OurShul.org,http://www.ourshul.org/,945
 1504,Lubavitch Chabad Loop  Gold Coast And Lincoln Pk.,312-388-7701,chabad@centerforjewishlife.com,http://www.centerforjewishlife.com,946
+1511,Chabad Of Agoura Hills,(818) 991-0991,ilw770@sbcglobal.net,,353
+1514,Bais Menachem/Shul Of Postville,,,,354
 1516,Synagogue Of Inverrary Chabad,954 733-5333,rablieb@prodigy.net,http://www.chabadoffortlauderdale.org/,952
 1518,Chabad Of Key Biscayne,(305)365-6744,chabadkeyb@aol.com,,953
 1520,Anshe Sfard,504-522-4714,info@anshesfard.org,http://www.anshesfard.org/,954
@@ -608,15 +683,20 @@ id,name,tel,email,website,position
 1529,Ohr Hatorah,704-366-3984,email:rabbicohen@chabadnc.org,http://www.chabadnc.org/,962
 1530,Beth El Jewish Center Of Flatbush,718-375-0120,betheljewishcenter@gmail.com,,522
 1532,Chabad Jewish Center In Wellington,561-333-4663,,http://www.wellingtonjewishcenter.org/,965
+1533,Chevra Shas Lubavitch (Aka Pesti Yeshiva),,info@zsido.com,http://www.zsido.com,357
 1534,New West End Synagogue,,nwes@newwestend.org.uk,,525
 1540,Chabad Lubavitch Of Fort Lauderdale,954-568-1190,office@chabadfll.com,http://www.chabadfll.com/,528
 1541,Chabad Lubavitch Of Southwest Florida,239-433-7708,,,971
+1543,Chabad Romano Centre,905-303-1880,chabad@chabadrc.org,http://chabadrc.org,361
 1544,Chabad Of The Windsors,609 448 9369,rabbi@chabadwindsor.com,,531
 1548,Bet Knesset Ashkenazi,,gzshul100@gmail.com,,975
 1549,East Melbourne Hebrew Congregation,613 9662 1372,rabbi@melbournecitysynagogue.com,,976
 1550,Chabad Of Pasadena,626-564-8820,,http://www.chabadpasadena.com/,977
 1553,Holy Law,,admin@holylaw.org.uk,http://www.holylaw.org.uk/,532
 1558,Heichal Moshe,054-2228551,,,980
+1559,Chabad Jewish Center Of Sarasota Fl,(941) 925-0770,rabbi@chabadofsarasota.com,,363
+1561,Boca Raton Synagogue (Brs),5613940394,office@brsonline.org,http://www.brsonline.org,364
+1567,Chabad Of Alpharetta,,info@chabadalpha.org,,367
 1568,The Rothenberg Law Firm Llp,,ross@injurylawyer.com,,986
 1575,Judaic Resource Center Of Iowa's Shul,515-277-1718,jrcspark@msn.com,,989
 1583,Chabad House,504-302-1830,info@chabadneworleans.com,http://www.chabadneworleans.com/tourist,543
@@ -626,9 +706,11 @@ id,name,tel,email,website,position
 1590,Wellington Jewish Community Centre,+64-4-384-5081,office@wjcc.org.nz,http://www.wjcc.org.nz/,546
 1591,Chabad Double Bay,61-2-9327-1644,rabbi@chabaddoublebay.com,,998
 1597,Kof K,,,,549
+1601,Beit Chabad Ness Tziona,972-89400935,rabbisagee@gmail.com,http://www.ness-ziona.com/,375
 1602,Cong. Lubavitch Of Agudas Chasidei Chabad  770,9174343359,info@chabadny.org,http://www.770live.com/,551
 1604,Chabad Of Norwood,(2711) 728 0655,chabadofnorwood@telkomsa.net,,1005
 1606,Kollel Ner Hamizrach,(404) 315-9020,nerhamizrach@comcast.com,http://www.nerhamizrach.org/,554
+1607,Netzach Israel,(404) 320-1852,Netzachisrael@gmail.com,http://www.netzachisrael.org/,378
 1609,The Kehilla In Sandy Springs,404-254-0248,rabbi@thekehilla.org,http://www.thekehilla.org/,1009
 1610,Anshe S'fard,404-874-4513,jngharris@mindspring.com,,1010
 1611,Chabad Intown (Atlanta),,,,1011
@@ -638,8 +720,10 @@ id,name,tel,email,website,position
 1621,Chabad Of Sherman Oaks,,hmweiss@gmail.com,,558
 1630,Northcliff Shul,,rabbi@northcliffshul.co.za,,560
 1632,Anshei Hashoron,,,,1020
+1637,Chabad Of Delaware,3028972959,rabbi@chabadde.com,http://www.chabadde.com/,384
 1640,Bais Moshe Kaalov,,mail@kaalov.org,http://www.kaalov.org/about-us,564
 1641,Chabad Lubavitch Of Switzerland,+41 44 289 7050,Rabbi@chabad.ch,http://www.chabadswitzerland.com/,1025
+1642,Beis Menachem,44-20-8802-0770,enquiries@chabad-uk.com,http://www.chabad-uk.com/,385
 1649,Hogar Jabad Lubavitch Of San Bernardino,,,,1029
 1651,Chabad Jewish Center,505.983.2000,info@chabadsantafe.com,http://chabadsantafe.com/,1030
 1652,Chabad Of New Mexico,505-880-1181,Chaim@chabadnm.org,,1031
@@ -648,6 +732,7 @@ id,name,tel,email,website,position
 1662,Brith Shalom Beth Israel   Minyan House,,,http://www.bsbisynagogue.com/,1038
 1666,Bobover Shteibel,416 789-0972,,,575
 1667,Shaarei Tikva,914 3819189,,http://orientashul.org/home.html,576
+1670,Westwood Village Synagogue,,threerebeccas@msn.com,http://www.villageshul.org/,395
 1671,Yeshiva Sharaay Tevunah,,,,1045
 1672,Happy Minyan,310-285-7777,,,1046
 1673,Beis Menachem Mendel Of Flatbush,3476785645,bmm@chabadofmidwood.org,,1047
@@ -655,6 +740,7 @@ id,name,tel,email,website,position
 1679,Lubavitch Chabad Of Northbrook,847-564-8770,info@chabadnorthbrook.com,http://www.chabadnorthbrook.com,581
 1680,Sha'arei Tefilla,(401) 331-5327,rds@shaareitefillaprov.org,http://www.shaareitefillaprov.org/,1052
 1684,Chabad Of Niles,,Chabad@megsinet.net,http://www.chabadandfree.com/,1055
+1686,The Chai Center,6313518672,,http://www.thechaicenter.com,400
 1688,Birmingham Central Synagogue,07917 573 558,rabbi@centralshul.com,http://www.centralshul.com/,1057
 1693,Darchei Noam,5165368467,Rabbi@congdarcheinoam.org,,585
 1695,Beth Medrash Govoha,367-1060,,,586
@@ -666,6 +752,7 @@ id,name,tel,email,website,position
 1703,Jewish Community Of Merano (Bz),,meranoebraica@hotmail.com,http://digilander.iol.it/meranoebraica,1066
 1704,Israelitische Cultusgemeinde Zuerich,,,http://www.icz.org/,1067
 1705,Yeshiva Ohr Yisrael,404-320-1444,office@ohryisrael.org,http://www.ohryisrael.org/,1068
+1706,Canary Wharf Minyan,2070061000,Adrian.Cohen@Cliffordchance.com,,402
 1707,Synagogue Montmartre,33620465175,,,590
 1718,Young Israel Chabad Of Pinellas County,7277890408,info@yichabad.com,http://www.yichabad.com/,1072
 1719,Chabad Of Parkland,9549709551,,http://www.chabadofparkland.com/,1073
@@ -674,22 +761,32 @@ id,name,tel,email,website,position
 1722,Ohr Moshe,718-896-3135,asherschechter@msn.com,,592
 1724,Chabad Of Riverdale,,,http://www.chabadbronx.org/,1077
 1732,Chabad Of Encino   Congregation Beth Meir,,,,1079
+1733,Central Avenue Synagogue Chabad,8472660770,,http://www.nschabad.org/,405
 1734,University Of Maryland At College Park,3014226200,,http://www.marylandhillel.org/,595
 1738,Sinagoge,7-8632-624119,,http://www.evreirostov.ru/,1083
 1740,Raytheon Company (Lax Area),3102139933,klaitin@raytheon.com,,1084
+1741,Jewish Learning Exchange,3238570923,info@jlela.com,http://www.jlela.com/,407
+1746,Industry City,,wlevi@industrycity.com,,408
 1750,Community Torah Center Of Bucks County,2153000227,rabbidmax@gmail.com,,1087
+1751,Yeshiva Gedolah Of Providence,401-274-3298,info@yeshivaofprovidence.org,http://www.yeshivaofprovidence.org/,409
+1755,Brighton & Hove Hebrew Congregation,01273 888855,office@bhhc-shul.org,http://www.bhhc-shul.org,412
 1756,Bet Hamidrasch Brunau,,,http://www.minjan-brunau.com/,1092
+1757,Ohev Sholom Talmud Torah Of Olney,3013281834,contact@osttolney.org,https://www.osttolney.org/,413
 1761,Young Israel Of Montreal,,,,1095
 1762,Adas Yeshurun Herzlia,,herzlia2000@yahoo.ca,http://www.adasyeshurun.ca/,605
 1763,North Hills Minyan @ Srjc,,,,606
 1764,Village Green Shul,8452000107,villagegreenshul@gmail.com,,607
+1765,Bais Hamedrash Of Flatbush (Bmf),7186924393,bmfshul@gmail.com,,415
 1771,Young Israel Of Avenue K,(718) 258-6666,Yiofavenuek@aol.com,,613
 1772,Rabbi Zakheim,718 3777774,,,1105
+1775,Bais Medrash Torah Utefilah,7187589359,,,421
 1777,Yeshiva Tiferes Yisroel,718-258-9006,,,616
 1779,Congregation Nachlas Yitzchok Soblov,7183776051,congnys@gmail.com,,617
 1780,Khal Shalheves Kodesh,,,http://www.shalheveskodesh.org/,618
 1781,Ahavas Shalom,718-253-2708,,,619
+1783,Kollel Bnei Torah,,,http://www.kollelbneitorah.org/,422
 1789,Bnei Israel,,,,1115
+1790,Cong. Bais Avrohom,7183774432,mendyk2@att.net,,425
 1791,Khal Bnei Torah   Kollel Dirshu Of Flatbush,,gabbai@khalbneitorah.org,http://www.khalbneitorah.org/,1117
 1795,All Seniors Care,,,http://www.allseniorscare.com,1119
 1799,Millinery Center Synagogue,2128136787,millinerycs@gmail.com,,627
@@ -697,10 +794,13 @@ id,name,tel,email,website,position
 1802,Ohel Leah Synagogue And Mikvah,852 -2589-2621,rabbi@ohelleah.com,http://www.ohelleah.org/,1124
 1806,Ohel Moshe   Anshe Sfard,718-829-5861,,,1125
 1809,Young Israel Of Astor Gardens,,,,1127
+1813,Ganei Efrat Mishkan Benaya,,yosh (at) mantinband (dot) com,,431
+1817,Bris Avrohomcong. Sons Of Israel,2017980172,,,432
 1821,Rabbi Meir Baal Haness,02-624-0088,,,634
 1825,Shaar Hashomayim,Rabbi Scheier,,http://www.shaarhashomayim.org/,1133
 1827,Young Israel Of Riverdale,7185484765,,http://www.yiriverdale.org/,1135
 1828,Case Museum,,rginsberg@tullettprebon.com,,1136
+1829,Beis Midrash Ner Aryeh/Valley Torah,,,http://vths.org/,435
 1830,Kobe Osaka,81-78-2217236,chabad.kobe@hotmail.co.il,,1138
 1834,Moorabbin Hebrew Congregation,61 0395533805,mhc@mhc.org.au,http://www.jewishmelbourne.com.au/,637
 1835,Chabad Center Of Wayne Nj,9736946274,mgurv@optonline.net,,638
@@ -709,8 +809,11 @@ id,name,tel,email,website,position
 1852,Agudath Achim,(718) 520-1682,,,1144
 1853,Yeshivat Ohr Yerushalayim,972-2-533-2424,office@yoy.org.il,,1145
 1854,Yeshiva Ohr Tmimim,972 3 9606583,yeshiva@ohrtmimim.org,http://www.ohrtmimim.org,1146
+1858,Beis Medresh Lubavitch,4135678665,info@lya.org,http://lya.org,438
 1859,The Rothenberg Law Firm Llp,2157327000,,http://www.injurylawyer.com/contact/,1149
 1861,Ohr Hatorah,414-228-8930,thejewishgift@yahoo.com,http://www.torahinmilwaukee.com/,1151
+1863,Philadelphia Yeshiva,,,,440
+1866,Congregation Light Of Israel / Sephardic Center,585-271-5690,,,441
 1869,Congregation Tifereth Zvi,5166610675,office@tzminyan.org,http://www.tzminyan.org/,645
 1870,Yeshiva University   Morg,,,http://yuzmanim.com/,646
 1871,Kehal Chasidim Shteibl,,,,1156
@@ -718,7 +821,9 @@ id,name,tel,email,website,position
 1873,Bet Haknesset Rodfe Sedek,(525) 574 8854,,,1158
 1875,Bet Haknesset Shaare Shalom,(525) 251 0973,,,1160
 1876,Ahabat Sholom,781-593-9255,office@ahabatsholom.org,http://www.ahabatsholom.org,648
+1877,Chabad Lubavitch Of The Panhandle   Tallahassee,850-523-9294,rabbi@jewishtallahassee.com,http://www.jewishtallahassee.com/,443
 1880,Adorama,2127410401,,http://www.adorama.com,1163
+1882,Beth Israel Beth Aaron,514-487-1323,info@shul.org,http://shul.org,445
 1885,Kehillat Shaarei Torah,,office@shaareitorah.com,http://www.shaareitorah.com/,1166
 1886,Kahal Kneseth Yecheskel Of Daash,(718) 384-3251,,,652
 1887,Satmar Yeshiva,718.416.4006,,,1168
@@ -729,6 +834,7 @@ id,name,tel,email,website,position
 1898,Tosh Montreal,514-278-5014,,,1175
 1899,Malam,,,,1176
 1901,Adas Yoseph,718-837-9177,,,658
+1902,Derech Emmuna D'vien,718 253-5314,,,449
 1904,Bnai Torah,416-226-3700,office@bnaitorah.net,http://www.bnaitorah.net,660
 1906,Caulfield Hebrew Congregation,(613) 9525-9492,admin@caulfieldshule.com,http://members.ozemail.com.au/~chcmelb,661
 1909,Jewish Community Of Helsinki,,,http://www.jchelsinki.fi/contacts.htm,1182
@@ -738,10 +844,13 @@ id,name,tel,email,website,position
 1921,Bayit Vegan Carlebach Minyan,972-2-642-8174,asherdc@barak-online.net,,1188
 1922,Chabad Cote St. Luc,514-485-7221,moshe@ice.com,,1189
 1927,Ann Arbor Chabad,734-995-3276,,http://www.jewmich.com,666
+1929,Chabad Lubavitch,804-740-2000,info@chabadofva.org,http://www.chabadofva.org,453
 1933,Iavne,55 11 3082-3243,,,668
+1935,Gateshead Shul,,office@gatesheadkehilla.co.uk,,454
 1937,Israelitische Gemeinde Basel,612799850,igb@igb.ch,http://www.igb.ch,1196
 1939,Translloyd Travel,03-233.99.44.,translloydtravel@yahoo.com,http://www.translloydtravel.com,1197
 1940,Ohel Torah (English Speakers Minyan),,,,1198
+1941,Beis Hatalmud,,,,456
 1942,Beth Elisheva Synagogue  Mikveh & Jewish Center,662 663 0244,rabbi@jewishthailand.com,http://www.jewishthailand.com/,1200
 1945,Center 1 Shtibel,,,,673
 1948,Derech Simcha,,,,675
@@ -772,11 +881,14 @@ id,name,tel,email,website,position
 2007,Eitz Chayim,,,http://www.ecdp.org/,1237
 2013,Anshei Emuna Congregation,561-499-9229,Rabbi@AnsheiEmunah.org,,1239
 2020,Yismach Moshe,,ngildin@hotmail.com,http://www.sweat2.org,1241
+2021,Rabbinical Academy Of Venice,+39.041.5231495,Minian@Jewishvenice.org,http://Jewishvenice.org,469
 2024,Durban United Hebrew Congregation,031 201 5177,duhc@iafrica.com,,1243
 2029,Lower Merion Synagogue,610-664-5626,shul@verizon.net,http://www.lmsonline.org/,1247
 2031,Beit Midrash Morasha,+27214348680,Morasha@cybersmart.co.za,,699
 2032,The Dutch Shul,,dubin@netvision.net.il,,700
+2033,Beis Hamedrash Hachodosh,0161 795 6225,,,473
 2034,Copenhagen Synagoge,33170050,mt@mosaiske.dk,https://mosaiske.dk/,1251
+2035,Machsike Hadas,45 33161850,info@chabad.dk,http://machsikehadas.dk,474
 2036,Hornbaek Minyan,,,http://www.jerusalemconnection.org/travelguide/Europe/Denmark/Infos_about_cities/A_to_G/copa_to_g.html,1253
 2037,Gold Coast Hebrew Congregation,,,http://www.goldcoasthc.org.au/index.html,1254
 2038,Orthodox Minyan At Cjl; Yavneh House Of Princeton,609-258-9490,princetongabbinate@gmail.com,http://www.princeton.edu/~yavneh/,1255
@@ -790,40 +902,63 @@ id,name,tel,email,website,position
 2046,Heichal Hatorah,02-580-6020,,,705
 2047,Mishkan Mordechai,02-580-7473,,,1264
 2048,Chanichei Hayeshivot,02-580-8383,,,1265
+2049,Chasdei Avot,02-580-7283,,,475
 2050,Chasidei Amshinov,02-580-6196,,,707
 2051,Chasidei Beyan,02-580-6528,,,1268
 2052,Chasidei Beyan,02-580-7811,,,1269
 2053,Chasidei Boston,02-580-8691,,,708
+2057,Young Israel Of Greater Buffalo,716-634-0212,info@yibuffalo.org,http://www.yibuffalo.org,476
 2059,Chabad House,201 907-0686,RabbiSimon@aol.com,http://chabadhouse.com,710
 2061,Beit Yisrael Of Waverley,011 786 0437,dna613@mweb.co.za,,711
 2062,Jüdische Gemeinde Luzern,412406400,info@jgluzern.ch,http://www.jgluzern.ch/,1274
+2063,Newcastle Upon Tyne,07793 74 64 54,amlipsey@gmail.com,,477
+2064,Young Israel Of Sunnyside,718 786 4103,youngisraelofsunnyside@gmail.com,http://www.youngisraelofsunnyside.org/,478
 2065,Beit Menachem,,,,1277
 2066,Keren Or,,,,1278
+2067,Weiss & Company,2123023400,scott.rubin@weissandco.com,http://www.weissandco.com,479
+2070,Kadimah Toras Moshe,(617) 254-1333,office@KadimahTorasMoshe.org,http://www.kadimahtorasmoshe.org/,480
 2072,Miami Beach Community Kollel,3055328991,MiamiKollel@gmail.com,http://www.miamikollel.com/,1281
+2073,Mount Sinai Hospital Minyan,212-241-7262,rafael.goldstein@mountsinai.org,http://www.mountsinai.org/,481
 2079,Rav Shefa Shtibel,,,,1284
 2083,K'hal Zichron Yitzchok,(845)352-6260,,,1285
 2085,Sale Shul,0161 973 3013,mo@dirah.freeserve.co.uk,,1287
 2089,Chabad North Shore,612 9488 9548,info@chabadhouse.org.au,http://www.chabadhouse.org.au/,1289
 2090,Rutgers Hillel Minyan,732-545-2407,rutgersmesorah@gmail.com,http://rutgersmesorah.org/,720
+2091,Bais Ariel Chabad Jewish Enrichment Center,(205) 970-0100,OFFICE@CHABADOFALABAMA.COM,http://www.chabadofalabama.com/,485
 2093,Chabad Lubavitch Of New Hampshire,(603) 647-0204,,http://www.lubavitchnh.com/,1292
 2094,Chabad Community Center,405-286-0900,chabadokc@aol.com,http://www.jewishokc.com/,722
+2095,Chabad House,(918) 492-4499,,http://www.jewishok.com/,486
+2096,Northwest Campus Of Jewish Living,(503) 977-9947,chabador@juno.com,http://chabadoregon.com/,487
 2097,Chabad Of Vermont,8026585770,chabad@chabadvt.org,http://www.chabadvt.org/,1296
 2098,Hi Tech Minyan,+972-9-7639600,,,1297
+2102,Kesher: Community Synagogue Of Tenafly & Englewood,201.227.1117,Rabbiblock@keshernj.com,http://www.keshernj.com/,488
 2103,Lubavitch Jewish Center Of Alaska & Shomrei Ohr,(907) 279-1200,lubavitchofak@gci.net,http://www.myinsurancemart.com/chabad/,1299
 2108,Chabad Of The Space & Treasure Coasts,321 777 2770,contact@jewishbrevard.com,http://www.jewishbrevard.com/,1300
 2109,Beth Israel Of Onset Cape Cod Orthodox Synagogue,781 784 7153,elimhauser@yahoo.com,http://www.capecodshul.org/,1301
 2111,Boyaner Kloiz,718-388-5123,,,1302
+2118,Bais Medrash Tiferes Yosef Of Forest Park,7328061642,congforestpark@gmail.com,,490
 2120,Beachwood Kehilla,216 556-0010,rabbizlatin@beachwoodkehilla.com,http://www.beachwoodkehilla.com/,1305
+2123,Downtown Mincha Minyan,,amensh@ashcraftlaw.com,,492
 2125,Chabad Lubavitch Of Greater Boynton Beach,561-732-4633,Rabbi@ChabadBoynton.com,http://www.chabadboynton.com/,1309
 2126,Palmers Green & Southgate,020 8881 0037,,http://www.unitedsynagogue.org.uk/,1310
 2132,Chevra Kadisha Bnai Jacob   Beit Hazikaron,514-482-3366,ckbj.org,http://www.ckbj.org,1312
 2138,Tiferes Tzvi,,,,1315
 2139,Boruch Taam,845-362-1411,mbkorach@gmail.com,,1316
+2143,Edgware Adath Yisroel Congregation,44 20 8931 7917,,http://www.eayc.org,497
 2146,Rimon Central Synagogue  Efrat,,Rimonshul@gmail.com,,1319
 2147,Rav Tachliti  Rimon,,,,1320
 2149,Bet Rimon,,,http://www.bet-rimon.co.il/,1322
+2150,Shearis Yisroel,,,,500
+2154,Caesarea Synagogue,,,,502
+2157,K'hal Ateres Yeshaya,732 905 2643,,,503
+2159,Nefesh Hachaim,08 865-5988,wells@mail.biu.ac.il,,504
 2160,Yeshivat Atereth Tzvi,,,,1328
+2162,Shira Hadasha,,,,505
 2163,Yeshurun Hebrew Congregation,0161 428 8242,office@yeshurun.org.uk,http://www.yeshurun.org.uk/,1330
+2164,Beis Avrohom (Goschalks),, bais.avrohom@btinternet.com,,506
+2168,Beit Yatir,02-9963126,,,508
+2171,Tosher Beis Hamedrish Bp,7188546280,beishamedrish@tosh.com,https://twitter.com/ToshNews,511
+2175,Torat Emet   The Main Street Synagogue,,office@toratemet.org,http://www.toratemet.org/,513
 2179,Ohel Yakov,410-578-9336,,,1341
 2188,Pester Shul,36 20 3608107,info@pestisul.hu,http://www.pestisul.hu,1343
 2194,10 West 33rd Bet Medrash,,Albert@ynmnewyork.com,,1346
