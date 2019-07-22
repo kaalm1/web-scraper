@@ -4,9 +4,9 @@ class SimpleSpider < Kimurai::Base
   @csv_text = File.read(Rails.root.join('db', 'upload', 'urls.csv'))
   @csv = CSV.parse(@csv_text).to_a.flatten
 
-  @results_text = File.read(Rails.root.join('results.csv'))
+  @results_text = File.read(Rails.root.join('archive','results.csv'))
   @results = CSV.parse(@results_text).to_a.map(&:first).flatten
-  @csv = @csv.select { |x| @results.include?(x.split("/").last)}
+  @csv = @csv.select { |x| !@results.include?(x.split("/").last)}
 
   @name = "simple_spider"
   @engine = :selenium_chrome
@@ -20,7 +20,7 @@ class SimpleSpider < Kimurai::Base
   def parse(response, url:, data: {})
 
     item = {:id=>url.split('/').last, :name=>'', :tel=>'', :email=>'', :website=>''}
-    item[:name] = response.xpath("//div[@class='shul-details-info-column']/div").first.text.titleize
+    item[:name] = response.xpath("//div[@class='shul-details-info-column']/div").first && response.xpath("//div[@class='shul-details-info-column']/div").first.text.titleize
     response.xpath("//div[@class='shul-details-info-column']/a/@href").each do |x|
       if x.value.include?("tel:")
         item[:tel] = x.value.gsub("tel:","")
