@@ -4,6 +4,10 @@ class SimpleSpider < Kimurai::Base
   @csv_text = File.read(Rails.root.join('db', 'upload', 'urls.csv'))
   @csv = CSV.parse(@csv_text).to_a.flatten
 
+  @results_text = File.read(Rails.root.join('results.csv'))
+  @results = CSV.parse(@results_text).to_a.map(&:first).flatten
+  @csv = @csv.select { |x| @results.include?(x.split("/").last)}
+
   @name = "simple_spider"
   @engine = :selenium_chrome
   # @start_urls = ["https://www.godaven.com/shul-details/190"]
